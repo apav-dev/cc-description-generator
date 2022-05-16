@@ -1,0 +1,7 @@
+{
+  "$id": "cc-description-generator",
+  "$schema": "https://schema.yext.com/config/platform/plugin/v1",
+  "globals": {
+    "OPENAI_API_KEY": "${{OPENAI_API_KEY}}"
+  }
+}
